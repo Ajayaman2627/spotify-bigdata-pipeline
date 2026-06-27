@@ -128,4 +128,4 @@ ORDER BY release_year;
 
 **Ajayaman Kantumuchu**
 MS in Computer Science, CSUSB | ajayamankantumuchu@gmail.com
-[LinkedIn](https://linkedin.com/in/YOUR_USERNAME) | [GitHub](https://github.com/Ajayaman2627)
+[LinkedIn](https://linkedin.com/in/ajayaman-k) | [GitHub](https://github.com/Ajayaman2627)
